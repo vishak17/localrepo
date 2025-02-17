@@ -1,1 +1,1 @@
-# This is my locat repo
+# This is my local repo
